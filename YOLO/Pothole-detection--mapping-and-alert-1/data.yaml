@@ -1,0 +1,12 @@
+names:
+- buraco
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pothole-detection-mapping-and-alert
+  url: https://universe.roboflow.com/project/pothole-detection-mapping-and-alert/dataset/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: Pothole-detection--mapping-and-alert-1/train/images
+val: Pothole-detection--mapping-and-alert-1/valid/images
